@@ -58,7 +58,7 @@ typings/
 .env
 
 built/
-dist/
+# dist/
 reports/
 config.json
 src/**/*.js
